@@ -17,7 +17,7 @@ namespace WindowsFormsApp6
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             LifeForm Form = new LifeForm();
-            LifePresenter Presenter = new LifePresenter(Form);
+            new LifePresenter(Form);
             Application.Run(Form);
         }
     }

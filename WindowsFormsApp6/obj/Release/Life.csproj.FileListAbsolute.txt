@@ -24,3 +24,16 @@ C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Life\W
 C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Life\WindowsFormsApp6\obj\Release\Life.csproj.CopyComplete
 C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Life\WindowsFormsApp6\obj\Release\Жизнь.exe
 C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Life\WindowsFormsApp6\obj\Release\Жизнь.pdb
+D:\PetProjects\Life\WindowsFormsApp6\bin\Release\Жизнь.exe.config
+D:\PetProjects\Life\WindowsFormsApp6\bin\Release\Жизнь.exe
+D:\PetProjects\Life\WindowsFormsApp6\bin\Release\Жизнь.pdb
+D:\PetProjects\Life\WindowsFormsApp6\bin\Release\System.ValueTuple.dll
+D:\PetProjects\Life\WindowsFormsApp6\bin\Release\System.ValueTuple.xml
+D:\PetProjects\Life\WindowsFormsApp6\obj\Release\Life.csproj.AssemblyReference.cache
+D:\PetProjects\Life\WindowsFormsApp6\obj\Release\WindowsFormsApp6.LifeForm.resources
+D:\PetProjects\Life\WindowsFormsApp6\obj\Release\WindowsFormsApp6.Properties.Resources.resources
+D:\PetProjects\Life\WindowsFormsApp6\obj\Release\Life.csproj.GenerateResource.cache
+D:\PetProjects\Life\WindowsFormsApp6\obj\Release\Life.csproj.CoreCompileInputs.cache
+D:\PetProjects\Life\WindowsFormsApp6\obj\Release\Life.csproj.CopyComplete
+D:\PetProjects\Life\WindowsFormsApp6\obj\Release\Жизнь.exe
+D:\PetProjects\Life\WindowsFormsApp6\obj\Release\Жизнь.pdb
